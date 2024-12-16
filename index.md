@@ -27,6 +27,8 @@ Copernicus ERA-5 Download Page - https://cds.climate.copernicus.eu/datasets/rean
 
 ## **Results and Analysis**
 
+The code showing how the following figures were created can be found in the clim680_project repository labeled clim680proj_WHWP.ipynb.
+
 **Figure 1**
 
 ![](/figures/clim680_figure1.png)
