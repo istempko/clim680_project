@@ -15,15 +15,15 @@ For extreme heat over the Great Plains region, I sourced my data from the Copern
 
 **Citation and Links**
 
-Wang, C., and D.B. Enfield, 2001: The tropical Western Hemisphere warm pool, Geophys. Res. Lett., 28, 1635-1638. AOML and PSL.
+Wang, C., and D.B. Enfield, 2001: The tropical Western Hemisphere warm pool, Geophys. Res. Lett., 28, 1635-1638. [AOML](http://www.aoml.noaa.gov/) and [PSL](https://psl.noaa.gov/).
 
-NOAA Climate Indices - https://psl.noaa.gov/data/climateindices/list/
+[NOAA Climate Indices](https://psl.noaa.gov/data/climateindices/list/)
 
-WHWP Data - https://psl.noaa.gov/data/correlation/whwp.data
+[WHWP Data](https://psl.noaa.gov/data/correlation/whwp.data)
 
 Muñoz Sabater, J. (2019) - ERA5-Land monthly averaged data from 1950 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.68d2bb30 (Accessed on 02-DEC-2024).
 
-Copernicus ERA-5 Download Page - https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=overview
+[Copernicus ERA-5 Download Page](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=overview)
 
 ## **Results and Analysis**
 
