@@ -17,13 +17,13 @@ For extreme heat over the Great Plains region, I sourced my data from the Copern
 
 Wang, C., and D.B. Enfield, 2001: The tropical Western Hemisphere warm pool, Geophys. Res. Lett., 28, 1635-1638. AOML and PSL.
 
-[NOAA Climate Indices] (https://psl.noaa.gov/data/climateindices/list/).
+NOAA Climate Indices - https://psl.noaa.gov/data/climateindices/list/
 
-[WHWP Data] (https://psl.noaa.gov/data/correlation/whwp.data).
+WHWP Data - https://psl.noaa.gov/data/correlation/whwp.data
 
-Muñoz Sabater, J. (2019): ERA5-Land monthly averaged data from 1950 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.68d2bb30 (Accessed on 02-DEC-2024).
+Muñoz Sabater, J. (2019) - ERA5-Land monthly averaged data from 1950 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.68d2bb30 (Accessed on 02-DEC-2024).
 
-[Copernicus ERA-5 Download Page] (https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=overview)
+Copernicus ERA-5 Download Page - https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=overview
 
 ## **Results and Analysis**
 
@@ -80,8 +80,8 @@ Figure 9: However upon calculating a correlation coefficient then getting the co
 ## **Summary**
 
 ## **References**
-Green, B., Marshall, J., and Donohoe, A. (2017). Twentieth century correlations between extratropical SST variability and ITCZ shifts. Geophys. Res. Lett., 44, 9039–9047, [Twentieth Century correlations between extratropical SST variability and ITCZ shifts DOI] (https://doi.org/10.1002/2017GL075044).
+Green, B., Marshall, J., and Donohoe, A. (2017). Twentieth century correlations between extratropical SST variability and ITCZ shifts. Geophys. Res. Lett., 44, 9039–9047, https://doi.org/10.1002/2017GL075044.
 
-Lopez, H., Kim, D., West, R., and Kirtman, B. (2022). Modulation of North American heat waves by the tropical Atlantic warm pool. Journal of Geophysical Research: Atmospheres, 127, e2022JD037705, [Modulation of North American heat waves by the tropical Atlantic warm pool DOI] (https://doi.org/10.1029/2022JD037705).
+Lopez, H., Kim, D., West, R., and Kirtman, B. (2022). Modulation of North American heat waves by the tropical Atlantic warm pool. Journal of Geophysical Research: Atmospheres, 127, e2022JD037705, https://doi.org/10.1029/2022JD037705.
 
-Povea Perez, Y.: Atlantic Warm Pool: climate variability, thermal ocean-atmosphere interactions and remote response to ENSO and NAO., EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-4893, [Atlantic Warm Pool: cliamte variability, thermal ocean-atmosphere interactions and remote responses to ENSO and NAO DOI] (https://doi.org/10.5194/egusphere-egu2020-4893), 2020.
+Povea Perez, Y.: Atlantic Warm Pool: climate variability, thermal ocean-atmosphere interactions and remote response to ENSO and NAO., EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-4893, https://doi.org/10.5194/egusphere-egu2020-4893, 2020.
